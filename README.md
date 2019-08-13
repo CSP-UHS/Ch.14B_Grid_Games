@@ -1,2 +1,10 @@
-# Ch.22_Grid_Games
-Creating array-backed grid games
+<img align="left" src="http://hermonswebsites.com/Classes/CS/python.png"><H2>Chapter 22 Grid Games</H2>
+
+In this chapter you will be learning about how to create grid array backed games by building on the Grid Starter Code which is in the Jedi Training. When you are finished you will create a minimum of two grid-based games. 
+
+
+<h3>Jedi Tasks</h3>
+<ol>
+  <li>Jedi Training</li>
+  <li>Two Grid Games (Tic-Tac-Toe, Minesweeper, Connect 4, Battleship, Blackbox, etc.)</li>
+  </ol>
