@@ -5,8 +5,8 @@ SH = 600
 
 class MyGame(arcade.Window):
 
-    def __init__(self, SW, SH):
-        super().__init__(SW, SH)
+    def __init__(self, SW, SH, title):
+        super().__init__(SW, SH, title)
         arcade.set_background_color(arcade.color.WHITE)
 
     def on_draw(self):
@@ -18,7 +18,7 @@ class MyGame(arcade.Window):
 
 def main():
 
-    window = MyGame(SW, SH)
+    window = MyGame(SW, SH, "Grid Game")
     arcade.run()
 
 if __name__ == "__main__":
