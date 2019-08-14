@@ -18,7 +18,7 @@ class MyGame(arcade.Window):
 
 def main():
 
-    window = MyGame(SW, SH, "Grid Game")
+    window = MyGame(SW, SH, "Starter Grid Game")
     arcade.run()
 
 if __name__ == "__main__":
